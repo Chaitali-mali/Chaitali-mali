@@ -5,6 +5,7 @@
 
 <!-- Name and Contact -->
 <h1 align="center">Hi 👋, I'm <span style="color:blue">Chaitali Mali</span></h1>
+<h3 align="center">A passionate Data Analyst and Frontend Developer from India 🇮🇳</h3>
 <p align="center">
   <b>BE in Computer Engineering</b><br>
   📧 <a href="mailto:chaitalimali902@gmail.com">chaitalimali902@gmail.com</a><br>
