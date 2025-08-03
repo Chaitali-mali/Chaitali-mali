@@ -38,12 +38,15 @@ A results-driven and detail-oriented Computer Science graduate with a strong fou
 
 ---
 
-## 📫 Connect with Me
+## 🔗 Connect with me
 
-- 📧 Email: [chaitalimali902@gmail.com](mailto:chaitalimali902@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chaitali-mali/)
-- 🧑‍💻 [GitHub](https://github.com/Chaitali-mali)
-- 🧠 [LeetCode](https://leetcode.com/your-profile) • [HackerRank](https://hackerrank.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitalimali/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Chaitali-mali)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/mGlmTqRsNn/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chaitalimali902)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:chaitalimali902@gmail.com)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white)](tel:+917262930914)
+
 
 ---
 
