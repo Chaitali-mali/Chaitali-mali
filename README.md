@@ -1,9 +1,7 @@
-<!-- Logo (Optional: Replace the image URL with your logo or profile pic) -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="![Uploading CUserschaitDownloadsChaitali image.pdf.png…]()
-" alt="Logo or Profile Picture"/>
+  <img src="https://github.com/Chaitali-mali/Chaitali-mali/blob/main/banner-image.png" alt="Chaitali Mali Banner" width="100%" />
 </p>
-
 <!-- Name & Tagline -->
 <h1 align="center">Hi 👋, I'm Chaitali Mali</h1>
 <h3 align="center">A passionate Data Analyst and Frontend Developer from India 🇮🇳</h3>
