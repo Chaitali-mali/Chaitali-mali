@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-  <src="https://github.com/Chaitali-mali/Chaitali-mali/commit/74b3dff50fe113e9640965b4de327198102955da">
+ > *(<img width="632" height="366" alt="HR Dashboard" src="C:\Users\chait\Downloads\CUserschaitDownloadsChaitali image.pdf (1).png" />)*
 
 
 ---
