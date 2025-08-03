@@ -1,6 +1,6 @@
-
- > *(<img width="632" height="366" alt="My Profile" src="C:\Users\chait\Downloads\CUserschaitDownloadsChaitali image.pdf (1).png" />)*
-
+<p align="center">
+  <img src="https://github.com/Chaitali-mali/Chaitali-mali/blob/main/your-image-name.png?raw=true" alt="Chaitali Mali Banner" width="100%">
+</p>
 
 ---
 <!-- Name & Tagline -->
