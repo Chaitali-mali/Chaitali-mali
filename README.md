@@ -71,3 +71,11 @@ A results-driven and detail-oriented Computer Science graduate with a strong fou
 
 ---
 
+<!-- Footer -->
+<p align="center">
+  <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
+</p>
+
+
+---
+
