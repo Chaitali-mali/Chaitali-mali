@@ -1,6 +1,5 @@
-<!-- Banner -->
 
- > *(<img width="632" height="366" alt="HR Dashboard" src="C:\Users\chait\Downloads\CUserschaitDownloadsChaitali image.pdf (1).png" />)*
+ > *(<img width="632" height="366" alt="My Profile" src="C:\Users\chait\Downloads\CUserschaitDownloadsChaitali image.pdf (1).png" />)*
 
 
 ---
