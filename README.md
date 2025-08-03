@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Chaitali-mali/Chaitali-mali/commit/74b3dff50fe113e9640965b4de327198102955da">
-</p>
+
+  <src="https://github.com/Chaitali-mali/Chaitali-mali/commit/74b3dff50fe113e9640965b4de327198102955da">
+
 
 ---
 <!-- Name & Tagline -->
