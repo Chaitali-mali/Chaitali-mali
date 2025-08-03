@@ -1,7 +1,42 @@
-<p align="center">
-  <img src="https://github.com/Chaitali-mali/Chaitali-mali/blob/main/Chaitali%20image.pdf.png?raw=true" alt="Chaitali Mali Banner" width="100%" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chaitali Mali - Data Analyst</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f0faff;
+      margin: 0;
+      padding: 0;
+    }
+    .banner {
+      width: 100%;
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
 
+  <div class="banner">
+    <img src="banner-image-path.png" alt="Chaitali Mali - Data Analyst Banner">
+  </div>
+
+</body>
+</html>
+
+
+
+---
 <!-- Name & Tagline -->
 <h1 align="center">Hi 👋, I'm Chaitali Mali</h1>
 <h3 align="center">A passionate Data Analyst and Frontend Developer from India 🇮🇳</h3>
