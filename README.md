@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chaitali Mali
 
-### A passionate frontend developer from India 🇮🇳
+### A passionate Data Analyst from India 🇮🇳
 
 ---
 
@@ -14,13 +14,13 @@
 [🤖 Resume Screening Automation using NLP](https://github.com/Chaitali-mali/Resume-Screening-NLP)
 
 🌱 I’m currently learning:  
-React Native, Django, and ML frameworks like TensorFlow and PyTorch
-
-💬 Ask me about:  
-React, Vue, and GSAP
+React Native, and ML frameworks like TensorFlow and PyTorch
 
 📫 How to reach me:  
 📧 chaitalimali902@gmail.com
+
+⚡ Fun fact:  
+I think I am funny 😄
 
 👨‍💻 All of my projects are available at:  
 [🌐 My Portfolio](https://github.com/Chaitali-mali/Portfolio)
@@ -31,8 +31,6 @@ React, Vue, and GSAP
 📄 Know about my experiences:  
 [📃 Resume](https://github.com/Chaitali-mali/Resume)
 
-⚡ Fun fact:  
-I think I am funny 😄
 
 ---
 
@@ -42,13 +40,9 @@ I think I am funny 😄
 `C` `C++` `Java` `JavaScript` `Python`
 
 ### 🌐 Frontend
-`React` `Vue.js` `HTML5` `CSS3` `Tailwind` `Bootstrap`
+ `HTML5` `CSS3` `Bootstrap`
 
-### 🖥️ Backend
-`Node.js` `Express.js` `Django` `Flask`
 
-### 📱 Mobile App Development
-`React Native` `Flutter` `Kotlin`
 
 ### 🧠 AI/ML
 `TensorFlow` `PyTorch` `Pandas` `Seaborn` `OpenCV` `Scikit-learn`
@@ -60,7 +54,7 @@ I think I am funny 😄
 `Power BI` `Matplotlib` `Seaborn` `Chart.js`
 
 ### ⚙️ DevOps
-`GitHub Actions` `Docker` `Heroku`
+`GitHub Actions` 
 
 ---
 
@@ -70,18 +64,9 @@ I think I am funny 😄
 - [LinkedIn](https://linkedin.com/in/chaitali-mali)
 - [LeetCode](https://leetcode.com/chaitali-mali)
 - [HackerRank](https://www.hackerrank.com/chaitalimali902)
-- [Hashnode](https://hashnode.com/@chaitali)
-- [Medium](https://medium.com/@chaitali)
 
 ---
 
-## 🏆 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitali-mali)
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitali-mali&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitali-mali&show_icons=true&theme=default)
-
----
 
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/chaitalimali)
