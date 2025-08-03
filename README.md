@@ -1,6 +1,7 @@
 <!-- Logo (Optional: Replace the image URL with your logo or profile pic) -->
 <p align="center">
-  <img src="https://github.com/Chaitali-mali/your-logo-or-profile-image.png" width="150" alt="Logo or Profile Picture"/>
+  <img src="![Uploading CUserschaitDownloadsChaitali image.pdf.png…]()
+" alt="Logo or Profile Picture"/>
 </p>
 
 <!-- Name & Tagline -->
