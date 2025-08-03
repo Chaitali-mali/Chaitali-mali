@@ -19,31 +19,57 @@ As a passionate and detail-oriented Data Analyst, I aim to transform raw data in
 
 ---
 
-### 💼 Projects
+## 💼 Projects
 
-- 🔹 [📈 SuperStore Sales Forecast](https://github.com/Chaitali-mali/SuperStore-Sales-Forecast)  
-  Time series analysis to predict future sales using Python and forecasting models.
-
-- 🔹 [☕ Excel Project – Coffee Sales](https://github.com/Chaitali-mali/excel-project-coffee-sales)  
-  Dashboard for visualizing coffee product sales using Excel pivot tables and slicers.
-
----
-
-### 📊 Tools & Skills
-
-- **Languages**: Python, SQL, HTML
-- **Data Analysis**: Pandas, NumPy, Matplotlib
-- **Visualization**: Power BI, Excel Charts, Seaborn
-- **Other Tools**: Jupyter, VS Code, Git
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🔹 [SuperStore Sales Forecast](https://github.com/Chaitali-mali/SuperStore-Sales-Forecast) | Predictive analytics using sales data | Excel, Power BI |
+| 🔹 [HR Data Analysis](https://github.com/Chaitali-mali/HR-Data-Analysis) | HR insights from structured datasets | Power BI, Excel |
+| 🔹 [Coffee Sales Dashboard](https://github.com/Chaitali-mali/Potfolio) | Visual sales trends of coffee products | Excel |
+| 🔹 Resume Screening Automation *(Coming Soon)* | Automating resume screening using NLP | Python, NLTK |
+| 🔹 Automatic Video Captioning *(Work in Progress)* | ML model to generate subtitles | Deep Learning, Python |
 
 ---
 
-### 🔗 Connect with Me
+## 🛠️ Skills
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chaitalimali/)
-- 🧠 [LeetCode](https://leetcode.com/u/mGlmTqRsNn/)
-- 💻 [GitHub](https://github.com/Chaitali-mali)
+- **Languages:** Python, SQL, JavaScript
+- **Data Tools:** Excel, Power BI, Pandas, Matplotlib, NumPy
+- **Machine Learning:** scikit-learn, TensorFlow (Basics)
+- **Frontend:** HTML, CSS, React Native
+- **Version Control:** Git, GitHub
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitalimali/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Chaitali-mali)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/mGlmTqRsNn/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chaitalimali902)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:chaitalimali902@gmail.com)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white)](tel:+917262930914)
 
 
+---
 
+## 🔥 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitali-mali&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitali-mali&theme=radical" width="450"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- React Native & mobile UI frameworks
+- Machine Learning with TensorFlow
+- Advanced SQL for analytics
+
+---
+
+## 💬 Ask Me About
+
+`Data Analysis`, `Python`, `Excel Dashboards`, `Power BI`, `Git`, `Frontend Basics`, `Portfolio Projects`
