@@ -1,73 +1,71 @@
-# Hi 👋, I'm Chaitali Mali
+<!-- Logo (Optional: Replace the image URL with your logo or profile pic) -->
+<p align="center">
+  <img src="https://github.com/Chaitali-mali/your-logo-or-profile-image.png" width="150" alt="Logo or Profile Picture"/>
+</p>
 
-### A passionate Data Analyst from India 🇮🇳
+<!-- Name & Tagline -->
+<h1 align="center">Hi 👋, I'm Chaitali Mali</h1>
+<h3 align="center">A passionate Data Analyst and Frontend Developer from India 🇮🇳</h3>
 
 ---
 
-🔭 I’m currently working on:  
-[📈 SuperStore Sales Forecast](https://github.com/Chaitali-mali/SuperStore-Sales-Forecast)
+## 🎯 Objective
 
-👯 I’m looking to collaborate on:  
-[💡 Automatic Captioning for Videos](https://github.com/Chaitali-mali/Automatic-Captioning-ML)
+A results-driven and detail-oriented Computer Science graduate with a strong foundation in **Data Analysis**, **ML**, and **Frontend Development**. Passionate about transforming data into insights and building intelligent tools. Currently exploring real-world projects in **Python**, **Power BI**, and **React Native**.
 
-🤝 I’m looking for help with:  
-[🤖 Resume Screening Automation using NLP](https://github.com/Chaitali-mali/Resume-Screening-NLP)
+---
 
-🌱 I’m currently learning:  
-React Native, and ML frameworks like TensorFlow and PyTorch
+## 💼 Projects
 
-📫 How to reach me:  
-📧 chaitalimali902@gmail.com
-
-⚡ Fun fact:  
-I think I am funny 😄
-
-👨‍💻 All of my projects are available at:  
-[🌐 My Portfolio](https://github.com/Chaitali-mali/Portfolio)
-
-📝 I regularly write articles on:  
-[📚 My Blog](https://chaitali.hashnode.dev/)
-
-📄 Know about my experiences:  
-[📃 Resume](https://github.com/Chaitali-mali/Resume)
-
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🔹 [SuperStore Sales Forecast](https://github.com/Chaitali-mali/SuperStore-Sales-Forecast) | Predictive analytics using sales data | Excel, Power BI |
+| 🔹 [HR Data Analysis](https://github.com/Chaitali-mali/HR-Data-Analysis) | HR insights from structured datasets | Power BI, Excel |
+| 🔹 [Coffee Sales Dashboard](https://github.com/Chaitali-mali/Potfolio) | Visual sales trends of coffee products | Excel |
+| 🔹 Resume Screening Automation *(Coming Soon)* | Automating resume screening using NLP | Python, NLTK |
+| 🔹 Automatic Video Captioning *(Work in Progress)* | ML model to generate subtitles | Deep Learning, Python |
 
 ---
 
 ## 🛠️ Skills
 
-### 👩‍💻 Programming Languages
-`C` `C++` `Java` `JavaScript` `Python`
-
-### 🌐 Frontend
- `HTML5` `CSS3` `Bootstrap`
-
-
-
-### 🧠 AI/ML
-`TensorFlow` `PyTorch` `Pandas` `Seaborn` `OpenCV` `Scikit-learn`
-
-### 🗃️ Databases
-`MySQL` `MongoDB` `PostgreSQL` `SQLite`
-
-### 📊 Data Visualization
-`Power BI` `Matplotlib` `Seaborn` `Chart.js`
-
-### ⚙️ DevOps
-`GitHub Actions` 
+- **Languages:** Python, SQL, JavaScript
+- **Data Tools:** Excel, Power BI, Pandas, Matplotlib, NumPy
+- **Machine Learning:** scikit-learn, TensorFlow (Basics)
+- **Frontend:** HTML, CSS, React Native
+- **Version Control:** Git, GitHub
 
 ---
 
-## 🔗 Social Links
+## 📫 Connect with Me
 
-- [GitHub](https://github.com/Chaitali-mali)
-- [LinkedIn](https://linkedin.com/in/chaitali-mali)
-- [LeetCode](https://leetcode.com/chaitali-mali)
-- [HackerRank](https://www.hackerrank.com/chaitalimali902)
+- 📧 Email: [chaitalimali902@gmail.com](mailto:chaitalimali902@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chaitali-mali/)
+- 🧑‍💻 [GitHub](https://github.com/Chaitali-mali)
+- 🧠 [LeetCode](https://leetcode.com/your-profile) • [HackerRank](https://hackerrank.com/your-profile)
 
 ---
 
+## 🔥 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitali-mali&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitali-mali&theme=radical" width="450"/>
+</p>
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/chaitalimali)
+---
+
+## 🧠 Currently Learning
+
+- React Native & mobile UI frameworks
+- Machine Learning with TensorFlow
+- Advanced SQL for analytics
+
+---
+
+## 💬 Ask Me About
+
+`Data Analysis`, `Python`, `Excel Dashboards`, `Power BI`, `Git`, `Frontend Basics`, `Portfolio Projects`
+
+---
 
