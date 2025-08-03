@@ -1,7 +1,7 @@
-<!-- Banner Image -->
 <p align="center">
-  <img src=""C:\Users\chait\Downloads\CUserschaitDownloadsChaitali image.pdf (1).png" alt="Chaitali Mali Banner" width="100%" />
+  <img src="https://github.com/Chaitali-mali/Chaitali-mali/blob/main/Chaitali%20image.pdf.png?raw=true" alt="Chaitali Mali Banner" width="100%" />
 </p>
+
 <!-- Name & Tagline -->
 <h1 align="center">Hi 👋, I'm Chaitali Mali</h1>
 <h3 align="center">A passionate Data Analyst and Frontend Developer from India 🇮🇳</h3>
@@ -69,13 +69,5 @@ A results-driven and detail-oriented Computer Science graduate with a strong fou
 
 `Data Analysis`, `Python`, `Excel Dashboards`, `Power BI`, `Git`, `Frontend Basics`, `Portfolio Projects`
 
----
 
-<!-- Footer -->
-<p align="center">
-  <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
-</p>
-
-
----
 
