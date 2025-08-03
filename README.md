@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Chaitali-mali/Chaitali-mali/blob/main/banner-image.png" alt="Chaitali Mali Banner" width="100%" />
+  <img src=""C:\Users\chait\Downloads\CUserschaitDownloadsChaitali image.pdf (1).png" alt="Chaitali Mali Banner" width="100%" />
 </p>
 <!-- Name & Tagline -->
 <h1 align="center">Hi 👋, I'm Chaitali Mali</h1>
