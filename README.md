@@ -1,4 +1,5 @@
-## 💬 Ask Me About<!-- Banner -->
+## Hi, I'm Kapil Mali! 👋
+<!-- Banner -->
 <p align="center">
   <img src="https://github.com/Chaitali-mali/Chaitali-mali/blob/main/CUserschaitDownloadsChaitali%20image.pdf.png?raw=true" alt="Chaitali Mali Banner" width="100%">
 </p>
